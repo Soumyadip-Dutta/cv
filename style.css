@@ -1,0 +1,47 @@
+body {
+  background-color: #EAF6F6;
+  margin: auto;
+  border: 3px solid #4CAF50;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+}
+
+h3 {
+  text-align: center;
+  font-style: italic;
+  color: #425F57
+}
+
+h1 {
+  font-style: italic;
+  color: #425F57;
+}
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  right: 0;
+  padding: 5px;
+
+  background-color: #cae8ca;
+
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+  right:20px;
+}
+  .fa {
+  padding: 5px;
+  font-size: 30px;
+
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px;
+}
